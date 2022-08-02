@@ -1,0 +1,10 @@
+cffi==1.15.1
+charset-normalizer==2.1.0
+cryptography==37.0.4
+pdfminer.six==20220524
+pip==22.2.1
+pycparser==2.21
+PyPDF2==2.9.0
+setuptools==63.1.0
+typing-extensions==4.3.0
+wheel==0.37.1
